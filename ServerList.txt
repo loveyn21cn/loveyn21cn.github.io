@@ -1,0 +1,16 @@
+[Server]
+随缘传奇登陆器接入点1(主要)|随缘传奇|A87BA7ECB8943D73D70B773356AFF833|7001|1.85|0=电信服务器列表
+随缘传奇登陆器接入点2(备用)|随缘传奇|F9623C4471970F9A02B41C3912A06EA3|7001|1.85|0=电信服务器列表
+随缘传奇本地测试1|随缘传奇|192.168.10.168|7001|1.85|0=测试列表
+随缘传奇本地测试2|随缘传奇|192.168.0.168|7001|1.85|0=测试列表
+[Expand]
+测试列表=0
+电信服务器列表=1
+[Web]
+HomeUrl=http://xylxw24.vicp.net/
+LogoUrl=http://xylxw24.vicp.net/link.html
+GameUrl=http://xylxw24.vicp.net/
+MoneyUrl=http://xylxw24.vicp.net/
+[LoginUp]
+Ver=1
+DownUrl=http://djsycq.eicp.net/Mir2Login.exe
